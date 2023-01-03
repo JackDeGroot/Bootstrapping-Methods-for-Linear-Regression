@@ -1,1 +1,1 @@
-# Bootstrapping-Methods-for-Linear-Regression
+# Bootstrapping-Methods-for-Linear-Regression-Simulations
